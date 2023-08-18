@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "name": "Sophia Contesini",
+      "email": "sophiamarques214@gmail.com",
+      "cpf": "784.987.086-72",
+      "telefone": "+5519982642207",
+      "status": "ativo",
+      "id": 1
+    },
+    {
+      "name": "Guilherme Contesini",
+      "email": "guilhermecontesini@gmail.com",
+      "cpf": "40385460805",
+      "telefone": "+5519982642207",
+      "status": "ativo",
+      "id": 2
+    }
+  ]
+}
